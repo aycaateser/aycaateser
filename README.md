@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/fstnUIxyXP1aAn5f3j/giphy.gif" align="right" width="300" height="250">
 
 # :wave:Hi there,I 'm Ayça Ateşer. 
-## :mortar_board: I'm graduated from Manisa Celal Bayar University Computer Engineering department.
+//## :mortar_board: I'm graduated from Manisa Celal Bayar University Computer Engineering department.
 ## :dizzy: I'm interested in Full Stack Development.
 ## :eyes: I'm looking for Software Engineer and Software QA Tester positions.
 ## :herb: I'm currently learning Nodejs,React.
