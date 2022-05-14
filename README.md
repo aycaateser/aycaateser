@@ -11,7 +11,6 @@
 <br/>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=aycaateser&color=blueviolet)
 
 ## Technologies and Tools
 <p float="left">
