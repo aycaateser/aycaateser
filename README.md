@@ -1,9 +1,8 @@
 
-<img src="https://media.giphy.com/media/fstnUIxyXP1aAn5f3j/giphy.gif" align="right" width="300" height="250">
 
-# :wave:Hi there,I 'm Ayça Ateşer. 
-## :dizzy: I'm interested in Full Stack Development.
-## How to reach me 
+
+### :wave:Hi there,I 'm Ayça Ateşer. 
+### How to reach me 
 
 [<img width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][linkedin]
 
@@ -26,12 +25,8 @@
 
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png width="40" height="40">
 
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png width="40" height="40">
-
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png width="40" height="40">
 
-
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png width="40" height="40">
 <br/>
  </p>
 <details>
