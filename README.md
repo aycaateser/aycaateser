@@ -3,8 +3,6 @@
 
 # :wave:Hi there,I 'm Ayça Ateşer. 
 ## :dizzy: I'm interested in Full Stack Development.
-## :eyes: I'm looking for Software Engineer and Software QA Tester positions.
-## :herb: I'm currently learning Nodejs,React.
 ## How to reach me 
 
 [<img width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][linkedin]
